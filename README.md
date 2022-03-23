@@ -1,2 +1,2 @@
-# 14-K-Nearest-Neighbors
+# Predicting Target Class via KNN algorithm
  Learning about K Nearest Neighbors Classifying algorithm
